@@ -1,6 +1,6 @@
 {
   "name": "@black-light/passport-openidconnect",
-  "version": "0.1.4",
+  "version": "1.1.4",
   "private": false,
   "types": "./types/index.d.ts",
   "description": "OpenID Connect authentication strategy for Passport.",
